@@ -1,0 +1,128 @@
+@media (max-width:1400px) {
+    
+}
+@media (max-width:1200px) {
+.main__menu-items {
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.main__content-items {
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-evenly;
+}
+}
+@media (max-width:992px) {
+.header__content-title {
+    font-size: 33px;
+    line-height: 58px;
+    max-width: 407px;
+    width: 100%;
+}
+.header__content-description {
+    font-size: 15px;
+    line-height: 19px;
+    max-width: 360px;
+    width: 100%;
+}
+}
+@media (max-width:768px) {
+    .main__burger-content {
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+    }
+    .main__burger-title {
+        text-align: center;
+        
+    }
+
+    .main__burger-description {
+        text-align: center;
+    }
+
+    .main__burger-block {
+        justify-content: center;
+    }
+
+    .footer__content-info {
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+
+    .main__burger__image {
+        width: 100%;
+    }
+
+    .header__nav-menu {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;    
+    }
+
+    .main__menu-item {
+        width: 100%;
+    }
+    .header__nav-links {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .main__menu-image {
+        width: 100%;
+    }
+
+}
+@media (max-width:576px) {
+.main__menu-info {
+    left: 240px;
+    top: 40px;
+}
+.main__menu-info1 {
+    left: 13px;
+    top: 45px;
+}
+.main__download-info {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.main__menu-description {
+    font-size: 13px;
+    line-height: 15px;
+}
+.main__menu-title {
+    font-size: 25px;
+    line-height: 31px;
+}
+.header {
+height: 100%;
+}
+}
+@media (max-width:480px) {
+.main__menu-info {
+    left: 170px;
+    top: 20px;
+}
+.main__menu-info1 {
+    left: 7px;
+    top: 18px;
+}
+.main__menu-title {
+    font-size: 23px;
+    line-height: 20px;
+}
+.main__menu-btn  {
+    font-size: 11px;
+    line-height: 5px;
+    padding: 8px 36px;
+}
+}
+@media (max-width:375px) {
+
+}
+
